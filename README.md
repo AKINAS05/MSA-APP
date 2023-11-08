@@ -1,4 +1,4 @@
 # MSA-APP
 Sanskrit learning app
 <br>
-Creator - Sanika Jadhav
+Creator - Sanika VESIT
